@@ -55,7 +55,7 @@ Then open `reports/dashboard.html` in any browser.
 - Table of the 10 largest breaches
 
 ## Possible extensions
-- Swap in a real Kaggle/HIBP-derived dataset (see note above)
+- Swap in a real Kaggle/HIBP-derived dataset
 - Add a filter/date-range picker (would need a small Flask/Streamlit app
   instead of static HTML)
 - Break out by country as well as sector
