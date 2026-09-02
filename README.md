@@ -4,25 +4,10 @@ Cleans a messy breach dataset with Pandas, analyzes trends by attack type,
 sector, and year, and renders it as a Seaborn-charted, dashboard-style HTML
 report.
 
-## ⚠️ Important — read before you claim this on your CV
-Your CV bullet says **"real-world data breach datasets."** This project
-ships with `generate_dataset.py`, which creates a **synthetic** dataset
+This project ships with `generate_dataset.py`, which creates a **synthetic** dataset
 shaped like real breach-tracking data (same sector/attack-type categories
 and record-count scale used in trackers like Privacy Rights Clearinghouse),
 so the cleaning pipeline has genuinely messy, realistic data to work with.
-
-**To make the CV claim fully accurate, swap in a real dataset:**
-1. Download one from Kaggle — search "data breaches" (there are several
-   public ones with company/sector/records-exposed columns).
-2. Rename/re-map its columns to match: `organization, sector, attack_type,
-   breach_date, records_exposed, country`.
-3. Save it as `data/raw_breaches.csv`, skip `generate_dataset.py`, and run
-   `clean_data.py` onward as normal.
-
-If you don't have time before the interview, be upfront if asked — say the
-portfolio version uses a synthetic dataset modeled on real breach-reporting
-categories, and you know how to swap in a real one. That's a fine, honest
-answer for a fresher project.
 
 ## Project structure
 ```
@@ -70,7 +55,7 @@ Then open `reports/dashboard.html` in any browser.
 - Table of the 10 largest breaches
 
 ## Possible extensions
-- Swap in a real Kaggle/HIBP-derived dataset (see note above)
+- Swap in a real Kaggle/HIBP-derived dataset
 - Add a filter/date-range picker (would need a small Flask/Streamlit app
   instead of static HTML)
 - Break out by country as well as sector
