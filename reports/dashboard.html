@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Cybersecurity Breach Data Analysis Dashboard</title>
+<style>
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f4f6f8; margin: 0; padding: 24px; color: #222; }
+  h1 { color: #1F3864; }
+  .kpi-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 28px; }
+  .kpi-card { background: white; border-radius: 8px; padding: 16px 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); flex: 1; min-width: 180px; }
+  .kpi-card .label { font-size: 13px; color: #666; text-transform: uppercase; }
+  .kpi-card .value { font-size: 22px; font-weight: bold; color: #1F3864; margin-top: 4px; }
+  .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .chart-card { background: white; border-radius: 8px; padding: 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+  .chart-card img { width: 100%; border-radius: 4px; }
+  table { width: 100%; border-collapse: collapse; margin-top: 12px; background: white; }
+  th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #eee; }
+  th { background: #1F3864; color: white; }
+  section { margin-bottom: 32px; }
+</style>
+</head>
+<body>
+  <h1>Cybersecurity Breach Data Analysis Dashboard</h1>
+  <p style="color:#666;">Data period: 2018-01-02 to 2025-12-31 &nbsp;|&nbsp; Synthetic demo dataset</p>
+
+  <div class="kpi-row">
+    <div class="kpi-card"><div class="label">Total Breaches</div><div class="value">650</div></div>
+    <div class="kpi-card"><div class="label">Total Records Exposed</div><div class="value">492,401,659</div></div>
+    <div class="kpi-card"><div class="label">Avg Records / Breach</div><div class="value">757,541</div></div>
+    <div class="kpi-card"><div class="label">Top Attack Type</div><div class="value">Misconfiguration</div></div>
+    <div class="kpi-card"><div class="label">Most Affected Sector</div><div class="value">Healthcare</div></div>
+  </div>
+
+  <section class="charts">
+    <div class="chart-card"><img src="breaches_by_year.png"></div>
+    <div class="chart-card"><img src="attack_type_counts.png"></div>
+    <div class="chart-card"><img src="records_by_sector.png"></div>
+    <div class="chart-card"><img src="sector_attack_heatmap.png"></div>
+  </section>
+
+  <section>
+    <h2 style="color:#1F3864;">Top 10 Largest Breaches</h2>
+    <table>
+      <tr><th>Organization</th><th>Sector</th><th>Attack Type</th><th>Date</th><th>Records Exposed</th></tr>
+      <tr><td>Org_0345</td><td>Retail</td><td>Ransomware</td><td>2021-04-13</td><td>4,854,454</td></tr><tr><td>Org_0517</td><td>Retail</td><td>Ransomware</td><td>2023-12-13</td><td>4,758,816</td></tr><tr><td>Org_0637</td><td>Education</td><td>Ransomware</td><td>2024-05-23</td><td>4,734,395</td></tr><tr><td>Org_0131</td><td>Healthcare</td><td>Ransomware</td><td>2025-07-25</td><td>4,725,077</td></tr><tr><td>Org_0643</td><td>Retail</td><td>Ransomware</td><td>2018-03-30</td><td>4,694,463</td></tr><tr><td>Org_0416</td><td>Technology</td><td>Ransomware</td><td>2022-04-01</td><td>4,630,381</td></tr><tr><td>Org_0399</td><td>Government</td><td>Ransomware</td><td>2023-11-24</td><td>4,610,522</td></tr><tr><td>Org_0382</td><td>Education</td><td>Ransomware</td><td>2018-04-08</td><td>4,592,810</td></tr><tr><td>Org_0086</td><td>Retail</td><td>Ransomware</td><td>2021-07-16</td><td>4,545,152</td></tr><tr><td>Org_0639</td><td>Healthcare</td><td>Ransomware</td><td>2021-10-14</td><td>4,528,681</td></tr>
+    </table>
+  </section>
+</body>
+</html>

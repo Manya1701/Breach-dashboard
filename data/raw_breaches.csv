@@ -1,0 +1,671 @@
+organization,sector,attack_type,breach_date,records_exposed,country
+Org_0637,Education,Ransomware,05/23/2024,4734395,UK
+Org_0048,Education,Misconfiguration,18-Apr-2019,384483,USA
+Org_0527,  Technology  ,phishing,"April 12, 2022",431528,Germany
+Org_0192,HEALTHCARE,Ransomware,"October 29, 2024",982702,Canada
+Org_0219,Healthcare,unpatched vulnerability,26-Oct-2019,2995154,UK
+Org_0413,education,UNPATCHED VULNERABILITY,31-Jul-2019,346344,Germany
+Org_0296,Technology,Misconfiguration,2019-03-15,1109715,UK
+Org_0484,GOVERNMENT,Malware,11/25/2025,703382,USA
+Org_0348,Education,Physical Theft,2018-11-06,26451,Germany
+Org_0634,TECHNOLOGY,Ransomware,"November 24, 2018",559190,Brazil
+Org_0229,  Technology  ,misconfiguration,"March 28, 2023",1853555,Canada
+Org_0130,Retail,Malware,23-Apr-2021,121764,Germany
+Org_0626,TECHNOLOGY,Phishing,08-Apr-2024,285048,Germany
+Org_0502,Retail,Unpatched Vulnerability,08-May-2020,2899856,UK
+Org_0609,government,Misconfiguration,09/11/2024,,India
+Org_0521,healthcare,Misconfiguration,2025-01-11,452040,USA
+Org_0631,  Retail  ,  Physical Theft  ,2023-11-14,2918,USA
+Org_0079,Education,Malware,"June 04, 2023",457732,Canada
+Org_0455,Government,Physical Theft,11/28/2019,19303,India
+Org_0443,TECHNOLOGY,Malware,"December 29, 2019",616388,Germany
+Org_0223,Technology,Malware,"June 01, 2024",649133,Brazil
+Org_0132,GOVERNMENT,UNPATCHED VULNERABILITY,18-Jul-2025,2471822,India
+Org_0453,Finance,Physical Theft,"November 28, 2020",26565,India
+Org_0050,Healthcare,unpatched vulnerability,"December 13, 2025",27093,USA
+Org_0568,FINANCE,Unpatched Vulnerability,2024-03-05,694184,India
+Org_0031,Education,unpatched vulnerability,11/25/2018,307399,Canada
+Org_0627,Finance,  Unpatched Vulnerability  ,03-Apr-2023,2531045,Australia
+Org_0260,government,misconfiguration,2021-05-21,558516,India
+Org_0052,Retail,Physical Theft,15-May-2021,43755,Australia
+Org_0037,Technology,Physical Theft,2025-06-10,8850,India
+Org_0114,GOVERNMENT,Physical Theft,"April 11, 2022",43545,Brazil
+Org_0297,Finance,Malware,2022-06-14,392172,India
+Org_0182,finance,Malware,2023-09-11,695083,USA
+Org_0131,HEALTHCARE,Ransomware,"July 25, 2025",4725077,Australia
+Org_0283,TECHNOLOGY,Insider Threat,01/03/2024,13610,USA
+Org_0639,healthcare,Ransomware,10/14/2021,4528681,Canada
+Org_0463,Government,Insider Threat,12/27/2023,191637,USA
+Org_0403,Retail,Misconfiguration,"June 17, 2020",754079,USA
+Org_0245,Retail,Misconfiguration,10-Oct-2025,1289423,Australia
+Org_0088,retail,  Ransomware  ,12/28/2023,,Australia
+Org_0288,Retail,  Malware  ,04/23/2024,778259,USA
+Org_0509,technology,PHYSICAL THEFT,"May 07, 2022",44951,Germany
+Org_0215,Healthcare,MISCONFIGURATION,2023-07-17,766854,Brazil
+Org_0291,Government,Physical Theft,21-Nov-2019,11142,Germany
+Org_0491,Education,  Physical Theft  ,04/22/2024,42949,Canada
+Org_0164,Technology,Phishing,"June 23, 2018",10325,Australia
+Org_0426,Government,Ransomware,09/10/2018,861200,Canada
+Org_0518,TECHNOLOGY,  Physical Theft  ,03/15/2025,2663,UK
+Org_0116,GOVERNMENT,INSIDER THREAT,08/07/2022,19715,UK
+Org_0431,Technology,Misconfiguration,03-Sep-2024,680563,Brazil
+Org_0479,technology,Malware,2021-01-03,391722,Canada
+Org_0465,Finance,  Malware  ,21-Apr-2022,176133,USA
+Org_0032,Technology,INSIDER THREAT,2020-10-05,162467,Canada
+Org_0189,Finance,Malware,"August 07, 2018",527392,Germany
+Org_0617,Education,Ransomware,2022-04-12,1073087,India
+Org_0411,Finance,Physical Theft,2019-12-29,46056,UK
+Org_0586,education,Ransomware,"August 10, 2018",4062439,UK
+Org_0318,education,unpatched vulnerability,2024-03-03,1956183,Brazil
+Org_0010,Education,malware,"June 09, 2022",150811,Germany
+Org_0167,healthcare,Unpatched Vulnerability,10-Jun-2022,1444021,USA
+Org_0220,Education,MISCONFIGURATION,14-Feb-2025,272501,UK
+Org_0522,Finance,Insider Threat,"January 12, 2024",169592,UK
+Org_0375,education,ransomware,2024-06-08,1965995,USA
+Org_0108,EDUCATION,INSIDER THREAT,"April 10, 2019",30893,Brazil
+Org_0367,retail,Phishing,07-Sep-2023,330052,Germany
+Org_0035,Education,Phishing,12/22/2020,489796,Canada
+Org_0036,Healthcare,malware,04-Feb-2024,642390,Germany
+Org_0177,Retail,  Misconfiguration  ,03-Aug-2018,148227,Canada
+Org_0580,Retail,Phishing,13-Oct-2020,49263,India
+Org_0095,EDUCATION,Phishing,"August 29, 2024",,Australia
+Org_0577,Education,Unpatched Vulnerability,"October 21, 2020",1601589,Canada
+Org_0454,Healthcare,Unpatched Vulnerability,12/31/2025,2898626,India
+Org_0267,Government,INSIDER THREAT,2023-02-15,146585,Germany
+Org_0471,education,physical theft,2025-09-09,19783,Australia
+Org_0373,Technology,Malware,01-May-2018,451179,USA
+Org_0472,Healthcare,Malware,"July 16, 2019",111010,Australia
+Org_0235,Education,MISCONFIGURATION,"September 17, 2023",,Canada
+Org_0384,Finance,Phishing,24-Dec-2025,,UK
+Org_0516,education,Unpatched Vulnerability,12/02/2021,914870,USA
+Org_0238,Education,Physical Theft,10-Mar-2018,21758,Germany
+Org_0303,Government,malware,"May 10, 2024",710922,UK
+Org_0005,EDUCATION,INSIDER THREAT,18-Jan-2025,151449,India
+Org_0139,Healthcare,Misconfiguration,2020-05-18,116070,Australia
+Org_0365,EDUCATION,Phishing,"June 25, 2019",451814,India
+Org_0506,Healthcare,ransomware,22-Oct-2019,2151858,Brazil
+Org_0529,Technology,Phishing,2019-08-03,,Canada
+Org_0172,Government,misconfiguration,2021-12-12,660972,USA
+Org_0346,Education,Physical Theft,2022-08-13,18224,UK
+Org_0221,Education,Unpatched Vulnerability,07/06/2024,738067,Canada
+Org_0566,Education,Malware,05-Nov-2020,606711,Germany
+Org_0270,Finance,Physical Theft,"March 14, 2022",29445,Germany
+Org_0273,Government,Unpatched Vulnerability,07/29/2020,1952002,Germany
+Org_0560,Healthcare,insider threat,"May 29, 2023",91986,Brazil
+Org_0359,Finance,PHYSICAL THEFT,2024-04-26,40047,Canada
+Org_0647,Healthcare,Unpatched Vulnerability,18-Aug-2018,1479325,Brazil
+Org_0041,Technology,PHISHING,2019-09-03,438068,Australia
+Org_0336,Government,Insider Threat,03/27/2025,145567,Australia
+Org_0392,FINANCE,Insider Threat,03/03/2024,24931,Canada
+Org_0093,Government,Malware,2021-06-04,640244,Germany
+Org_0438,Technology,misconfiguration,20-Dec-2022,575014,India
+Org_0342,GOVERNMENT,Misconfiguration,2021-05-04,953157,UK
+Org_0633,Government,Unpatched Vulnerability,2020-11-14,1556600,Canada
+Org_0344,Technology,UNPATCHED VULNERABILITY,2020-04-27,2411065,UK
+Org_0480,FINANCE,Insider Threat,"April 29, 2022",110656,India
+Org_0591,Finance,physical theft,01/10/2021,36444,USA
+Org_0102,Government,Insider Threat,"July 25, 2024",166505,UK
+Org_0298,Government,physical theft,2018-11-27,6177,Australia
+Org_0064,HEALTHCARE,Ransomware,12/03/2025,588790,UK
+Org_0056,technology,phishing,05-Feb-2025,49461,Australia
+Org_0456,Finance,Physical Theft,20-Jan-2020,42939,Brazil
+Org_0335,RETAIL,Malware,"May 11, 2022",626397,Canada
+Org_0445,Finance,Misconfiguration,06/25/2020,1431229,Brazil
+Org_0546,Education,Malware,06/28/2024,395956,India
+Org_0100,Healthcare,  Physical Theft  ,2018-04-16,15052,India
+Org_0124,Government,Insider Threat,"April 25, 2022",28058,UK
+Org_0401,government,  Phishing  ,01-May-2018,31218,UK
+Org_0432,HEALTHCARE,Unpatched Vulnerability,"February 05, 2021",71857,India
+Org_0120,HEALTHCARE,MISCONFIGURATION,"March 16, 2022",315281,India
+Org_0317,Government,misconfiguration,"February 22, 2021",775493,Germany
+Org_0307,Education,Phishing,2020-10-06,43511,India
+Org_0197,Healthcare,malware,2022-01-02,362551,USA
+Org_0258,Retail,misconfiguration,"March 01, 2025",1744323,Canada
+Org_0565,Government,unpatched vulnerability,06/16/2022,1753204,Australia
+Org_0371,GOVERNMENT,Unpatched Vulnerability,06/21/2025,,India
+Org_0618,technology,Misconfiguration,05/18/2018,976440,UK
+Org_0602,Healthcare,Insider Threat,2022-06-15,27344,USA
+Org_0112,Education,Physical Theft,"January 04, 2023",22668,UK
+Org_0222,Technology,Malware,2018-06-18,,Canada
+Org_0247,Retail,Unpatched Vulnerability,25-Jan-2021,531177,Brazil
+Org_0462,Finance,Ransomware,12/27/2018,3688235,Brazil
+Org_0461,  Government  ,  Ransomware  ,"January 20, 2018",2344518,USA
+Org_0609,government,Misconfiguration,09/11/2024,,India
+Org_0284,Technology,Phishing,08/03/2024,251840,UK
+Org_0187,EDUCATION,MALWARE,2022-03-01,746957,Germany
+Org_0623,Retail,ransomware,10-Sep-2025,,USA
+Org_0271,Government,Physical Theft,01/18/2024,42880,Brazil
+Org_0099,  Technology  ,Insider Threat,"January 21, 2024",114855,Canada
+Org_0042,EDUCATION,RANSOMWARE,13-Jun-2018,1812249,India
+Org_0481,FINANCE,Physical Theft,2019-10-15,27314,Brazil
+Org_0489,Healthcare,Misconfiguration,"August 04, 2023",672829,USA
+Org_0170,TECHNOLOGY,Misconfiguration,"April 28, 2024",1438440,Germany
+Org_0592,government,Misconfiguration,2023-04-22,380372,UK
+Org_0071,government,Misconfiguration,"December 02, 2018",50649,Brazil
+Org_0038,Healthcare,ransomware,12-May-2020,1757898,Canada
+Org_0616,  Healthcare  ,Misconfiguration,18-Aug-2018,1636662,UK
+Org_0345,Retail,  Ransomware  ,13-Apr-2021,4854454,Australia
+Org_0645,education,Malware,"May 25, 2024",597707,USA
+Org_0366,Government,physical theft,2018-10-26,38543,Germany
+Org_0644,Education,RANSOMWARE,12/27/2021,1211052,Germany
+Org_0004,RETAIL,INSIDER THREAT,09-Nov-2021,11490,Brazil
+Org_0162,EDUCATION,  Ransomware  ,17-Jul-2019,2478058,UK
+Org_0295,Healthcare,INSIDER THREAT,30-Jan-2021,4593,Canada
+Org_0080,education,misconfiguration,"February 16, 2021",521418,USA
+Org_0227,Education,malware,"December 31, 2020",260961,USA
+Org_0435,Technology,Unpatched Vulnerability,"February 02, 2021",623361,UK
+Org_0388,FINANCE,RANSOMWARE,2024-07-22,1353678,Brazil
+Org_0562,Finance,phishing,01-Aug-2022,,Canada
+Org_0262,Technology,PHYSICAL THEFT,02/14/2022,14410,India
+Org_0474,Education,Malware,2019-10-19,575765,India
+Org_0179,TECHNOLOGY,  Malware  ,"October 31, 2025",136215,Australia
+Org_0137,Government,MALWARE,"June 08, 2020",467297,India
+Org_0117,  Retail  ,Physical Theft,"September 07, 2021",20802,USA
+Org_0414,retail,Phishing,02-Mar-2025,,Australia
+Org_0039,Retail,Malware,2018-07-28,666095,Brazil
+Org_0532,Technology,MISCONFIGURATION,"February 27, 2024",1361980,Brazil
+Org_0407,education,  Ransomware  ,2021-08-18,233818,UK
+Org_0269,TECHNOLOGY,Phishing,2023-04-18,151018,USA
+Org_0009,healthcare,Phishing,2021-01-01,111115,Germany
+Org_0306,Retail,Insider Threat,"March 15, 2024",113306,India
+Org_0122,Government,ransomware,"November 06, 2020",2191835,Australia
+Org_0086,  Retail  ,RANSOMWARE,2021-07-16,4545152,UK
+Org_0084,Government,phishing,10/04/2025,161040,Germany
+Org_0344,Technology,UNPATCHED VULNERABILITY,2020-04-27,2411065,UK
+Org_0548,Retail,Insider Threat,08/18/2023,115416,USA
+Org_0446,Technology,Phishing,2025-08-26,249063,Brazil
+Org_0604,Education,PHISHING,"August 25, 2021",245443,India
+Org_0276,Government,unpatched vulnerability,08/20/2018,2133492,Brazil
+Org_0573,Healthcare,Phishing,25-Jun-2022,351595,Brazil
+Org_0350,Government,Physical Theft,"December 30, 2023",14325,USA
+Org_0199,Retail,Ransomware,"March 19, 2023",1579058,Australia
+Org_0175,education,Phishing,2021-11-07,265028,Brazil
+Org_0029,government,Physical Theft,"March 26, 2024",10194,Brazil
+Org_0434,Healthcare,Unpatched Vulnerability,17-Mar-2021,1743397,Brazil
+Org_0582,education,Physical Theft,08/06/2023,15441,UK
+Org_0259,RETAIL,PHYSICAL THEFT,10-May-2023,,UK
+Org_0314,Education,INSIDER THREAT,"January 28, 2018",87188,India
+Org_0329,technology,Ransomware,"April 12, 2024",3925991,India
+Org_0078,GOVERNMENT,Malware,02/27/2023,457641,Brazil
+Org_0017,Education,  Unpatched Vulnerability  ,04-Apr-2019,1309807,USA
+Org_0065,Retail,INSIDER THREAT,"September 17, 2022",153212,Brazil
+Org_0490,Government,PHISHING,2018-05-27,433514,Germany
+Org_0467,  Finance  ,Insider Threat,"November 07, 2019",5113,UK
+Org_0051,Education,Physical Theft,"January 31, 2022",4635,UK
+Org_0340,education,Misconfiguration,2023-07-22,1211068,Australia
+Org_0308,Government,physical theft,21-Jul-2021,7032,Germany
+Org_0488,  Finance  ,MALWARE,"March 04, 2024",423866,UK
+Org_0507,Healthcare,malware,13-May-2018,475579,Canada
+Org_0143,Finance,phishing,"June 04, 2019",276320,USA
+Org_0537,Finance,Malware,30-Dec-2022,321310,Germany
+Org_0383,Technology,MALWARE,22-Mar-2022,109998,Australia
+Org_0011,Finance,unpatched vulnerability,"October 21, 2022",1538323,Canada
+Org_0105,RETAIL,Misconfiguration,"January 05, 2018",,Canada
+Org_0293,TECHNOLOGY,Phishing,01/27/2025,36134,Brazil
+Org_0321,Government,Unpatched Vulnerability,"October 04, 2025",,Brazil
+Org_0624,technology,Unpatched Vulnerability,06/22/2023,1348501,UK
+Org_0053,Government,UNPATCHED VULNERABILITY,"June 16, 2025",2860877,Germany
+Org_0603,FINANCE,  Insider Threat  ,"March 09, 2021",164328,UK
+Org_0212,Retail,insider threat,"October 31, 2018",45360,UK
+Org_0439,Education,Ransomware,"July 26, 2022",4382727,Brazil
+Org_0419,Finance,Unpatched Vulnerability,"October 16, 2021",,USA
+Org_0119,Government,Misconfiguration,"February 16, 2019",358892,Brazil
+Org_0338,Finance,Unpatched Vulnerability,"August 03, 2022",1763280,Germany
+Org_0570,Finance,UNPATCHED VULNERABILITY,30-Jun-2022,,Germany
+Org_0000,TECHNOLOGY,physical theft,2019-07-26,44398,UK
+Org_0049,RETAIL,Unpatched Vulnerability,"July 08, 2021",2562624,Australia
+Org_0543,government,Unpatched Vulnerability,"August 22, 2019",,Australia
+Org_0181,Education,  Malware  ,"October 31, 2021",202332,UK
+Org_0059,Government,Ransomware,"March 13, 2019",1885772,USA
+Org_0424,Healthcare,  Phishing  ,"April 13, 2023",469673,Germany
+Org_0347,Finance,ransomware,08/12/2021,3344212,Australia
+Org_0206,Technology,Malware,2021-01-29,79686,Germany
+Org_0429,Government,PHYSICAL THEFT,10/18/2023,7932,Canada
+Org_0300,Technology,Unpatched Vulnerability,2023-12-04,983710,USA
+Org_0249,TECHNOLOGY,Insider Threat,05/17/2023,53070,Australia
+Org_0464,Healthcare,Misconfiguration,2018-03-15,1324257,UK
+Org_0403,Retail,Misconfiguration,"June 17, 2020",754079,USA
+Org_0127,Education,Ransomware,10/23/2020,865070,Canada
+Org_0598,Finance,Physical Theft,"September 24, 2022",4725,India
+Org_0227,Education,malware,"December 31, 2020",260961,USA
+Org_0377,Finance,MISCONFIGURATION,"May 09, 2025",480842,Brazil
+Org_0400,Government,Malware,09-Jun-2023,594128,Brazil
+Org_0622,Retail,Insider Threat,"June 22, 2018",180561,USA
+Org_0320,finance,Ransomware,2022-03-25,3817044,Brazil
+Org_0526,Healthcare,UNPATCHED VULNERABILITY,25-Oct-2018,2129051,Brazil
+Org_0066,Healthcare,Misconfiguration,25-Jan-2018,636236,Germany
+Org_0528,government,RANSOMWARE,14-Feb-2024,1258593,Germany
+Org_0217,Technology,Insider Threat,2024-06-12,32953,Brazil
+Org_0386,Finance,INSIDER THREAT,"September 13, 2018",173755,Canada
+Org_0109,Finance,physical theft,"January 24, 2021",31671,Australia
+Org_0648,Government,MISCONFIGURATION,2020-07-17,1339357,Brazil
+Org_0180,  Healthcare  ,Insider Threat,2019-06-08,169451,India
+Org_0552,FINANCE,UNPATCHED VULNERABILITY,2019-08-25,717686,Canada
+Org_0625,Technology,Misconfiguration,2020-03-01,1455461,Australia
+Org_0154,Healthcare,ransomware,2020-07-07,2986969,Germany
+Org_0176,healthcare,Insider Threat,11/12/2023,95493,Canada
+Org_0441,Education,phishing,2020-04-02,,Brazil
+Org_0123,Government,Physical Theft,15-Dec-2022,38557,USA
+Org_0333,Retail,Unpatched Vulnerability,26-Nov-2021,1940406,USA
+Org_0135,  Healthcare  ,INSIDER THREAT,01/11/2024,101981,UK
+Org_0517,Retail,Ransomware,"December 13, 2023",4758816,Canada
+Org_0186,Education,Insider Threat,"April 14, 2022",42582,Brazil
+Org_0596,Healthcare,Physical Theft,06/20/2024,18702,UK
+Org_0379,healthcare,Misconfiguration,2022-07-01,1849183,USA
+Org_0615,Healthcare,Malware,04-Aug-2023,487208,Brazil
+Org_0531,Technology,ransomware,01-Dec-2024,1680126,UK
+Org_0370,Technology,  Phishing  ,2020-09-04,128677,Germany
+Org_0107,Retail,Physical Theft,01/24/2025,46566,USA
+Org_0362,finance,phishing,23-Sep-2024,408904,Canada
+Org_0168,FINANCE,PHYSICAL THEFT,05-Mar-2020,23059,Canada
+Org_0503,TECHNOLOGY,Physical Theft,26-Aug-2023,46603,UK
+Org_0062,Finance,Insider Threat,09-Oct-2020,136755,Brazil
+Org_0466,healthcare,Malware,08-Sep-2024,455730,Canada
+Org_0606,Technology,Unpatched Vulnerability,04-Mar-2025,1476129,Australia
+Org_0575,  Education  ,misconfiguration,"March 07, 2020",1959751,Canada
+Org_0437,Retail,  Phishing  ,26-May-2021,147482,Brazil
+Org_0428,Government,Physical Theft,06/03/2024,31262,Germany
+Org_0034,Finance,Malware,2018-10-25,481547,Brazil
+Org_0334,Technology,Malware,12/14/2018,329399,Canada
+Org_0549,Healthcare,malware,07-Oct-2019,632264,UK
+Org_0473,EDUCATION,Phishing,03/24/2020,408374,Germany
+Org_0153,Retail,Misconfiguration,30-Jul-2018,1269151,Australia
+Org_0047,finance,physical theft,2021-02-15,18342,India
+Org_0287,Technology,Malware,2023-03-24,758505,Germany
+Org_0184,Government,physical theft,05-Nov-2024,49358,Germany
+Org_0589,retail,malware,16-Nov-2024,384699,Germany
+Org_0571,Finance,INSIDER THREAT,14-May-2025,,Brazil
+Org_0145,EDUCATION,Misconfiguration,06-Nov-2023,970584,Australia
+Org_0082,  Retail  ,Unpatched Vulnerability,2024-03-26,2186891,India
+Org_0495,Finance,Misconfiguration,2022-08-04,543283,Australia
+Org_0213,Government,Misconfiguration,02-Aug-2021,1498014,Brazil
+Org_0406,GOVERNMENT,phishing,"March 23, 2018",858,UK
+Org_0415,finance,Phishing,2019-03-19,25743,Brazil
+Org_0594,EDUCATION,Phishing,01-Jun-2020,250343,USA
+Org_0169,Technology,RANSOMWARE,03/19/2020,1332364,India
+Org_0152,Healthcare,Malware,03-Sep-2018,703559,Canada
+Org_0449,Education,Insider Threat,27-Sep-2023,147282,USA
+Org_0327,Finance,Malware,"October 24, 2025",335400,Germany
+Org_0555,EDUCATION,Unpatched Vulnerability,27-Dec-2024,723475,UK
+Org_0178,Education,malware,05/13/2025,350555,Brazil
+Org_0028,Finance,phishing,19-May-2022,486262,USA
+Org_0075,Healthcare,Malware,06/13/2022,80688,Germany
+Org_0458,Government,INSIDER THREAT,2024-07-18,123889,Australia
+Org_0393,FINANCE,Phishing,06/20/2019,432342,UK
+Org_0106,Education,Misconfiguration,07/31/2018,570057,Germany
+Org_0545,Retail,Insider Threat,10-Apr-2025,27159,USA
+Org_0142,education,RANSOMWARE,04/16/2018,174657,Brazil
+Org_0280,Technology,  Unpatched Vulnerability  ,07/31/2022,1277823,Germany
+Org_0409,Technology,  Phishing  ,07/13/2019,384463,India
+Org_0003,Healthcare,Ransomware,02/12/2021,1856182,India
+Org_0470,TECHNOLOGY,MISCONFIGURATION,"April 20, 2019",941794,Australia
+Org_0500,Education,Unpatched Vulnerability,10/30/2024,1167544,Germany
+Org_0448,technology,Insider Threat,10/29/2020,122442,Germany
+Org_0354,Finance,MALWARE,2020-10-22,390906,India
+Org_0243,Education,Insider Threat,09/13/2018,136069,Australia
+Org_0301,Technology,insider threat,04-Sep-2025,142452,USA
+Org_0111,  Government  ,Misconfiguration,11-Jan-2018,1532639,Brazil
+Org_0514,healthcare,Malware,05-Jan-2025,515379,Brazil
+Org_0226,  Finance  ,  Physical Theft  ,"November 15, 2021",8619,Brazil
+Org_0002,education,Physical Theft,"June 21, 2020",38668,Germany
+Org_0278,Finance,unpatched vulnerability,2021-02-01,2355045,India
+Org_0255,Finance,Misconfiguration,07-Feb-2018,1201102,USA
+Org_0254,Healthcare,Ransomware,2019-12-22,3380231,Brazil
+Org_0430,government,Ransomware,02/29/2020,407991,Brazil
+Org_0006,HEALTHCARE,Ransomware,2020-08-11,3238729,USA
+Org_0129,Retail,ransomware,19-Jan-2024,4503112,Brazil
+Org_0001,EDUCATION,INSIDER THREAT,06/14/2020,132575,USA
+Org_0554,Retail,Ransomware,05/27/2023,1890157,Germany
+Org_0487,Finance,Insider Threat,2019-11-09,197082,Brazil
+Org_0060,Technology,Phishing,"May 13, 2019",70408,Brazil
+Org_0497,Healthcare,Misconfiguration,"January 20, 2023",1390883,USA
+Org_0147,GOVERNMENT,  Phishing  ,09/27/2018,144687,UK
+Org_0228,healthcare,Insider Threat,10/13/2020,85935,Germany
+Org_0158,Finance,  Insider Threat  ,30-Jun-2021,148891,India
+Org_0157,Finance,INSIDER THREAT,2025-02-06,24153,Australia
+Org_0607,Finance,  Insider Threat  ,11/30/2020,,Germany
+Org_0026,Retail,Misconfiguration,2024-03-04,116091,Germany
+Org_0051,Education,Physical Theft,"January 31, 2022",4635,UK
+Org_0074,Finance,Malware,2024-10-17,172720,UK
+Org_0540,Government,Ransomware,"December 03, 2020",1296823,Canada
+Org_0076,technology,Physical Theft,2025-09-03,37138,Brazil
+Org_0289,Retail,Unpatched Vulnerability,04/24/2021,842887,Germany
+Org_0171,Education,  Unpatched Vulnerability  ,07/18/2021,1864498,Australia
+Org_0621,Healthcare,Ransomware,"February 05, 2025",,UK
+Org_0564,Retail,phishing,25-Jul-2024,137497,Australia
+Org_0421,Education,Physical Theft,27-Feb-2021,15617,Australia
+Org_0281,Education,misconfiguration,12/08/2025,1699835,Brazil
+Org_0193,  Finance  ,phishing,"December 26, 2024",33429,Australia
+Org_0081,Education,  Insider Threat  ,08/24/2021,127908,Germany
+Org_0416,Technology,Ransomware,01-Apr-2022,4630381,Germany
+Org_0593,Finance,Misconfiguration,"July 17, 2021",639217,Canada
+Org_0196,Healthcare,Unpatched Vulnerability,2024-03-19,1657681,Canada
+Org_0412,Government,Misconfiguration,16-Jan-2020,1941557,USA
+Org_0043,TECHNOLOGY,Misconfiguration,07/23/2022,1951467,Brazil
+Org_0185,government,  Ransomware  ,04/06/2023,3135673,Brazil
+Org_0324,GOVERNMENT,phishing,10/26/2023,234216,Canada
+Org_0410,Technology,  Physical Theft  ,20-Apr-2024,14680,Australia
+Org_0058,Education,Phishing,06/15/2024,377120,Australia
+Org_0493,Education,Physical Theft,2019-04-13,49812,Germany
+Org_0547,Retail,MISCONFIGURATION,03/22/2022,1092910,India
+Org_0629,Technology,physical theft,13-Dec-2024,40695,USA
+Org_0611,Healthcare,Ransomware,16-Nov-2024,2438042,Brazil
+Org_0361,HEALTHCARE,Phishing,"December 10, 2021",165390,Germany
+Org_0128,TECHNOLOGY,Misconfiguration,02/03/2022,199023,Canada
+Org_0510,EDUCATION,physical theft,12/20/2022,41585,Canada
+Org_0357,HEALTHCARE,Malware,09/26/2022,501905,Brazil
+Org_0519,Retail,Misconfiguration,16-Nov-2020,61811,Germany
+Org_0302,healthcare,  Misconfiguration  ,08/01/2024,1587591,UK
+Org_0534,Technology,phishing,03-Mar-2020,255231,USA
+Org_0643,RETAIL,ransomware,30-Mar-2018,4694463,India
+Org_0012,Finance,Phishing,03/26/2019,329462,Brazil
+Org_0600,Retail,Unpatched Vulnerability,11/17/2019,116893,Germany
+Org_0165,Healthcare,Unpatched Vulnerability,"December 16, 2025",1234314,Germany
+Org_0151,Retail,Ransomware,2018-10-02,766088,Germany
+Org_0418,healthcare,malware,31-Oct-2018,179368,USA
+Org_0515,Education,Misconfiguration,06/19/2020,1101790,Canada
+Org_0279,Technology,Physical Theft,2023-07-24,22621,Canada
+Org_0638,Government,Misconfiguration,"July 25, 2025",1483355,India
+Org_0578,Finance,Misconfiguration,2024-07-31,1020764,Germany
+Org_0092,Healthcare,Phishing,10/19/2024,407186,Germany
+Org_0057,Finance,Ransomware,2018-04-11,2103888,UK
+Org_0256,retail,Physical Theft,"July 04, 2019",17930,Germany
+Org_0369,Healthcare,Ransomware,07-Jan-2024,3327693,UK
+Org_0046,Government,Misconfiguration,01-Mar-2023,650031,UK
+Org_0405,Technology,Unpatched Vulnerability,"February 11, 2020",2293835,Canada
+Org_0330,Government,Ransomware,2022-06-09,1705277,Germany
+Org_0237,  Finance  ,  Unpatched Vulnerability  ,30-Nov-2024,2510261,Germany
+Org_0072,Healthcare,malware,2025-04-23,,USA
+Org_0394,Technology,PHYSICAL THEFT,2020-11-26,1478,Canada
+Org_0353,Finance,Phishing,04/08/2020,462999,Germany
+Org_0027,Education,Phishing,08/26/2020,213578,Brazil
+Org_0417,Government,Unpatched Vulnerability,07/12/2020,1912836,Australia
+Org_0150,Finance,Misconfiguration,25-Jan-2019,904988,Germany
+Org_0605,Education,Unpatched Vulnerability,01/18/2024,2498124,Australia
+Org_0085,Retail,  Unpatched Vulnerability  ,04-Mar-2024,1495600,Australia
+Org_0576,healthcare,Insider Threat,24-Oct-2018,89220,Canada
+Org_0146,HEALTHCARE,Insider Threat,2025-09-11,128621,Germany
+Org_0558,Education,Misconfiguration,2019-04-27,1021332,Brazil
+Org_0567,Technology,Ransomware,05/03/2019,3796309,Australia
+Org_0225,GOVERNMENT,phishing,"June 07, 2023",107466,Germany
+Org_0511,Technology,Unpatched Vulnerability,03/15/2020,1253870,Canada
+Org_0097,Technology,Misconfiguration,04/16/2019,1368188,Germany
+Org_0025,Retail,phishing,"January 06, 2024",73995,UK
+Org_0322,Retail,Misconfiguration,2018-12-15,1622613,Australia
+Org_0447,technology,MISCONFIGURATION,27-Oct-2024,1504725,India
+Org_0601,Finance,Physical Theft,05/12/2020,26070,USA
+Org_0456,Finance,Physical Theft,20-Jan-2020,42939,Brazil
+Org_0285,  Retail  ,phishing,"April 26, 2019",479930,UK
+Org_0020,Technology,Insider Threat,05/11/2019,59003,Germany
+Org_0641,  Technology  ,Ransomware,17-Mar-2022,3069970,UK
+Org_0092,Healthcare,Phishing,10/19/2024,407186,Germany
+Org_0275,healthcare,PHISHING,2023-01-03,128811,USA
+Org_0265,Technology,UNPATCHED VULNERABILITY,02/22/2024,2422084,Brazil
+Org_0125,Education,Malware,"March 31, 2018",,India
+Org_0425,Healthcare,insider threat,02/22/2022,,Germany
+Org_0233,education,unpatched vulnerability,"August 28, 2023",2326267,Germany
+Org_0231,Government,Misconfiguration,2021-03-16,1786649,Germany
+Org_0619,Healthcare,Ransomware,02-Jul-2021,1380529,Australia
+Org_0266,  Finance  ,Unpatched Vulnerability,"April 21, 2020",401436,Australia
+Org_0579,Healthcare,Misconfiguration,11/12/2025,1688060,Australia
+Org_0595,Healthcare,malware,14-Apr-2024,,India
+Org_0553,Finance,Insider Threat,2025-02-24,188725,Canada
+Org_0636,Healthcare,  Misconfiguration  ,2023-10-29,222284,UK
+Org_0487,Finance,Insider Threat,2019-11-09,197082,Brazil
+Org_0274,retail,Physical Theft,"May 28, 2025",40349,USA
+Org_0304,Retail,PHYSICAL THEFT,18-Nov-2018,3569,Australia
+Org_0292,Education,Unpatched Vulnerability,2023-11-17,331764,USA
+Org_0442,Healthcare,physical theft,"March 17, 2023",41692,India
+Org_0505,education,Misconfiguration,2023-11-12,62999,USA
+Org_0201,Retail,Misconfiguration,05/30/2018,610018,India
+Org_0556,Retail,Unpatched Vulnerability,"March 30, 2022",574542,UK
+Org_0581,Technology,Phishing,06-May-2023,185855,UK
+Org_0194,Government,Phishing,09/17/2020,153210,Canada
+Org_0422,Government,Misconfiguration,2022-01-17,906754,USA
+Org_0376,HEALTHCARE,MISCONFIGURATION,17-Apr-2023,813166,USA
+Org_0311,Retail,phishing,12/13/2018,300371,Germany
+Org_0021,Healthcare,Ransomware,2018-10-18,1970502,USA
+Org_0583,retail,Ransomware,08-Dec-2024,1358585,Brazil
+Org_0523,Healthcare,RANSOMWARE,2021-09-20,784178,Australia
+Org_0218,TECHNOLOGY,Insider Threat,06/10/2019,33925,India
+Org_0126,Technology,Phishing,28-Jul-2023,407211,Australia
+Org_0234,Education,PHISHING,02-Jun-2022,417255,USA
+Org_0166,Healthcare,Ransomware,28-Feb-2023,789287,Canada
+Org_0469,Technology,Insider Threat,2023-12-31,155793,India
+Org_0250,Retail,physical theft,11/26/2024,,USA
+Org_0610,retail,Unpatched Vulnerability,"October 31, 2019",1606948,UK
+Org_0224,Government,unpatched vulnerability,06/02/2023,2893059,India
+Org_0569,TECHNOLOGY,Phishing,"September 24, 2024",46711,Germany
+Org_0033,Technology,  Unpatched Vulnerability  ,16-Apr-2020,1021121,India
+Org_0104,government,Insider Threat,"May 31, 2018",23184,Canada
+Org_0387,finance,  Misconfiguration  ,29-May-2022,677015,Brazil
+Org_0103,Healthcare,  Insider Threat  ,03/05/2019,86556,Australia
+Org_0343,Healthcare,Phishing,09-May-2020,451937,UK
+Org_0380,Retail,  Malware  ,2023-02-14,387839,Canada
+Org_0613,Government,Malware,09-Feb-2020,21337,Germany
+Org_0504,Retail,Unpatched Vulnerability,"December 18, 2025",2847982,Australia
+Org_0402,Government,Misconfiguration,2019-10-16,529793,UK
+Org_0007,Technology,Ransomware,08-Jul-2025,648967,UK
+Org_0508,Technology,misconfiguration,"April 17, 2024",508273,Australia
+Org_0209,Healthcare,Physical Theft,"March 04, 2022",5088,India
+Org_0016,technology,Physical Theft,19-Sep-2019,10637,UK
+Org_0620,Healthcare,Unpatched Vulnerability,26-May-2023,853507,India
+Org_0098,Retail,PHISHING,13-Jun-2021,230742,Brazil
+Org_0083,healthcare,Insider Threat,"September 11, 2020",169419,Brazil
+Org_0070,government,Malware,06-Feb-2023,354894,UK
+Org_0242,TECHNOLOGY,Phishing,"September 13, 2019",362521,Germany
+Org_0251,education,RANSOMWARE,"September 14, 2021",893431,Germany
+Org_0198,Technology,Misconfiguration,09/23/2021,102978,Brazil
+Org_0530,Education,Unpatched Vulnerability,10-May-2020,908089,India
+Org_0486,Technology,Ransomware,2024-11-15,147684,Canada
+Org_0191,Retail,Insider Threat,"November 29, 2025",117698,UK
+Org_0332,education,malware,"December 10, 2020",554349,USA
+Org_0364,TECHNOLOGY,Misconfiguration,2022-04-30,515585,Germany
+Org_0240,Technology,Misconfiguration,"July 30, 2018",367589,UK
+Org_0551,Finance,Physical Theft,2020-09-25,8431,USA
+Org_0640,Government,Malware,"March 03, 2022",665001,India
+Org_0257,  Healthcare  ,Physical Theft,2020-02-02,48324,India
+Org_0584,Healthcare,Physical Theft,2024-11-19,35536,Germany
+Org_0244,Retail,Insider Threat,"December 11, 2019",139856,India
+Org_0399,GOVERNMENT,Ransomware,11/24/2023,4610522,Brazil
+Org_0635,Technology,Insider Threat,2025-12-11,161825,Brazil
+Org_0563,Technology,Unpatched Vulnerability,"January 30, 2018",2765365,Canada
+Org_0183,EDUCATION,insider threat,10/08/2025,189153,UK
+Org_0485,Education,Physical Theft,06/03/2025,31633,Germany
+Org_0614,EDUCATION,phishing,2022-12-01,122559,UK
+Org_0475,Finance,  Insider Threat  ,2018-02-22,29048,USA
+Org_0599,retail,Malware,"December 31, 2020",285424,Australia
+Org_0305,Finance,Malware,"September 05, 2024",,Canada
+Org_0118,Government,Phishing,29-Jan-2025,119768,UK
+Org_0483,Technology,Physical Theft,"June 02, 2023",7451,UK
+Org_0590,government,Physical Theft,29-Jun-2022,29588,India
+Org_0310,Education,PHISHING,2024-03-20,313460,India
+Org_0136,Technology,Physical Theft,08/02/2024,27239,Germany
+Org_0315,Government,Malware,04/20/2025,316029,Germany
+Org_0313,Retail,Insider Threat,10/27/2020,189079,India
+Org_0390,HEALTHCARE,Misconfiguration,2025-11-26,460931,Brazil
+Org_0013,Technology,Phishing,02-Apr-2023,290549,Canada
+Org_0094,Healthcare,Ransomware,2025-05-29,1367490,India
+Org_0067,Government,Physical Theft,"June 22, 2020",14430,Canada
+Org_0587,Healthcare,Insider Threat,"December 17, 2019",31653,Brazil
+Org_0096,Retail,Physical Theft,09/16/2025,17387,USA
+Org_0398,Education,physical theft,"March 05, 2024",4046,Germany
+Org_0077,Retail,Physical Theft,06-Apr-2025,879,Canada
+Org_0538,healthcare,UNPATCHED VULNERABILITY,07/28/2019,1124086,India
+Org_0378,Government,malware,30-May-2024,126200,USA
+Org_0477,retail,PHISHING,11-Jun-2018,189356,UK
+Org_0326,Government,PHISHING,04-Aug-2019,164020,Australia
+Org_0457,retail,  Misconfiguration  ,19-Sep-2021,556432,Brazil
+Org_0420,technology,insider threat,09/18/2021,49903,USA
+Org_0478,Retail,PHISHING,2018-07-07,447192,Brazil
+Org_0381,Education,Physical Theft,"February 17, 2022",12857,Germany
+Org_0226,  Finance  ,  Physical Theft  ,"November 15, 2021",8619,Brazil
+Org_0541,Finance,Unpatched Vulnerability,"July 03, 2019",2121862,India
+Org_0210,Education,Malware,2019-04-10,772411,UK
+Org_0442,Healthcare,physical theft,"March 17, 2023",41692,India
+Org_0525,Technology,MALWARE,2019-04-30,673580,Australia
+Org_0498,EDUCATION,INSIDER THREAT,"July 18, 2018",153485,Australia
+Org_0450,education,PHYSICAL THEFT,09-Oct-2021,42032,USA
+Org_0163,Healthcare,insider threat,12/22/2023,131240,Germany
+Org_0156,technology,ransomware,19-Jun-2021,,Brazil
+Org_0015,Finance,Physical Theft,08/13/2023,33321,India
+Org_0372,Finance,Ransomware,13-Nov-2023,1450586,India
+Org_0628,education,unpatched vulnerability,14-Dec-2020,,India
+Org_0516,education,Unpatched Vulnerability,12/02/2021,914870,USA
+Org_0188,healthcare,misconfiguration,10/04/2023,1752831,Germany
+Org_0121,Government,misconfiguration,"November 20, 2018",1309626,UK
+Org_0069,Education,Insider Threat,2018-04-22,168592,Australia
+Org_0325,Government,Unpatched Vulnerability,2021-11-13,2044888,UK
+Org_0161,Retail,Unpatched Vulnerability,2021-06-17,944921,Australia
+Org_0148,Education,Malware,14-Dec-2023,476755,Canada
+Org_0646,TECHNOLOGY,Malware,2023-06-23,625145,UK
+Org_0296,Technology,Misconfiguration,2019-03-15,1109715,UK
+Org_0316,technology,malware,31-Jul-2021,771571,Germany
+Org_0524,Finance,UNPATCHED VULNERABILITY,21-Jul-2020,1729735,Brazil
+Org_0207,Government,Misconfiguration,05/08/2018,1789788,UK
+Org_0141,  Finance  ,Ransomware,12-Jan-2018,1263730,Canada
+Org_0211,Education,UNPATCHED VULNERABILITY,"December 02, 2020",919973,Brazil
+Org_0134,TECHNOLOGY,Misconfiguration,"May 22, 2021",254687,Australia
+Org_0459,EDUCATION,Physical Theft,2022-08-20,9931,India
+Org_0337,RETAIL,Malware,08-Aug-2018,11048,Canada
+Org_0319,Finance,Malware,"August 03, 2022",146939,USA
+Org_0436,Technology,Phishing,09/29/2025,26342,India
+Org_0156,technology,ransomware,19-Jun-2021,,Brazil
+Org_0246,finance,malware,03/29/2021,724769,India
+Org_0427,Retail,Insider Threat,2020-07-20,101577,Canada
+Org_0232,Finance,Physical Theft,2022-02-07,,Germany
+Org_0533,Retail,MALWARE,"July 06, 2024",347922,Australia
+Org_0391,RETAIL,physical theft,2022-06-12,44429,India
+Org_0089,Healthcare,Physical Theft,2023-07-04,853,Australia
+Org_0140,Finance,Misconfiguration,03/20/2024,1239734,USA
+Org_0557,Finance,Unpatched Vulnerability,2019-09-05,764162,Brazil
+Org_0349,Retail,Malware,2021-09-02,769316,Germany
+Org_0155,RETAIL,Malware,2022-10-24,639577,Brazil
+Org_0230,HEALTHCARE,Insider Threat,31-May-2020,,UK
+Org_0286,Education,Insider Threat,10-Aug-2021,99888,Canada
+Org_0030,Finance,Unpatched Vulnerability,2021-07-08,230312,USA
+Org_0396,healthcare,Unpatched Vulnerability,"June 06, 2022",143657,Australia
+Org_0263,government,Physical Theft,"August 31, 2022",49683,India
+Org_0063,finance,Phishing,17-Jan-2021,168119,UK
+Org_0282,Healthcare,Insider Threat,05/10/2022,66945,UK
+Org_0135,  Healthcare  ,INSIDER THREAT,01/11/2024,101981,UK
+Org_0241,Technology,Misconfiguration,08/20/2025,76208,Brazil
+Org_0309,Retail,misconfiguration,12/24/2018,913829,UK
+Org_0363,Healthcare,Physical Theft,10/22/2023,49060,UK
+Org_0360,Government,Ransomware,"August 14, 2022",1872380,UK
+Org_0355,technology,Insider Threat,11/04/2025,112620,Australia
+Org_0597,Technology,Misconfiguration,10-Apr-2022,982558,USA
+Org_0160,Government,insider threat,2023-09-30,90584,Brazil
+Org_0402,Government,Misconfiguration,2019-10-16,529793,UK
+Org_0501,Retail,Insider Threat,18-Aug-2022,183992,UK
+Org_0341,Education,Malware,"June 20, 2018",573892,Brazil
+Org_0612,Education,insider threat,01/18/2020,76015,USA
+Org_0542,Government,Phishing,11/20/2024,397494,Brazil
+Org_0253,  Retail  ,PHYSICAL THEFT,01/02/2019,35121,Brazil
+Org_0040,RETAIL,Malware,12/08/2020,778236,Australia
+Org_0022,Healthcare,Phishing,"July 03, 2025",112821,India
+Org_0468,Technology,Ransomware,08/29/2023,1083157,Canada
+Org_0512,TECHNOLOGY,Ransomware,2022-03-26,3644584,USA
+Org_0203,  Government  ,Ransomware,13-Feb-2022,742995,Germany
+Org_0190,Government,malware,10-Feb-2019,154143,India
+Org_0090,Government,malware,"October 31, 2020",120629,USA
+Org_0544,government,Malware,07/01/2025,544042,USA
+Org_0496,FINANCE,Misconfiguration,20-Feb-2020,236001,Germany
+Org_0323,Technology,Physical Theft,"March 27, 2025",49377,Canada
+Org_0101,Education,Phishing,2021-01-08,400588,Australia
+Org_0520,Retail,Unpatched Vulnerability,04/29/2021,1363489,USA
+Org_0389,Government,INSIDER THREAT,"April 30, 2020",80921,India
+Org_0236,HEALTHCARE,Malware,02/15/2023,636710,Canada
+Org_0395,Finance,Insider Threat,2021-09-20,11292,USA
+Org_0299,Government,Phishing,2019-12-03,262569,Australia
+Org_0019,education,Unpatched Vulnerability,05/17/2020,1327432,Germany
+Org_0110,Finance,Ransomware,09/13/2023,635609,Canada
+Org_0368,Government,INSIDER THREAT,01/12/2024,72836,Canada
+Org_0588,  Government  ,PHISHING,2022-04-04,171122,UK
+Org_0397,government,Ransomware,"February 20, 2021",,India
+Org_0068,GOVERNMENT,Malware,07/15/2022,491094,Brazil
+Org_0008,Finance,ransomware,01/10/2021,2770280,Germany
+Org_0476,Technology,Phishing,19-Feb-2019,338318,USA
+Org_0054,Finance,Malware,02-Jan-2018,301850,Brazil
+Org_0277,Finance,Physical Theft,15-Sep-2024,15575,Canada
+Org_0205,  Retail  ,Unpatched Vulnerability,"September 26, 2025",1494494,UK
+Org_0290,Government,Ransomware,06-Sep-2025,2208613,Australia
+Org_0061,Technology,Unpatched Vulnerability,"December 18, 2022",2317941,Brazil
+Org_0174,Technology,Insider Threat,04/23/2025,84386,Canada
+Org_0261,technology,PHYSICAL THEFT,"October 17, 2019",45012,India
+Org_0044,Finance,misconfiguration,04/12/2018,1554687,Germany
+Org_0539,TECHNOLOGY,Phishing,2023-09-09,426558,Brazil
+Org_0385,Finance,Unpatched Vulnerability,2023-02-21,2455928,India
+Org_0018,Finance,PHISHING,10/11/2018,67814,Germany
+Org_0144,Healthcare,Misconfiguration,"March 23, 2019",1066626,Canada
+Org_0494,  Healthcare  ,Misconfiguration,10-Apr-2021,1482402,Brazil
+Org_0050,Healthcare,unpatched vulnerability,"December 13, 2025",27093,USA
+Org_0264,Technology,misconfiguration,2024-09-06,1112067,Brazil
+Org_0535,Education,Physical Theft,10-May-2024,20781,Canada
+Org_0559,Education,Phishing,"August 11, 2025",274201,Brazil
+Org_0208,GOVERNMENT,phishing,09-Feb-2022,201225,Australia
+Org_0216,Retail,UNPATCHED VULNERABILITY,27-Sep-2018,1690003,USA
+Org_0550,Healthcare,Insider Threat,"April 10, 2019",177107,Australia
+Org_0214,education,Malware,12/16/2025,380052,Australia
+Org_0339,Government,Phishing,22-Jun-2020,17641,Brazil
+Org_0023,Technology,Unpatched Vulnerability,"April 22, 2023",818637,UK
+Org_0482,Government,Physical Theft,05-Apr-2022,,Canada
+Org_0460,  Finance  ,Unpatched Vulnerability,10-Aug-2019,776471,Germany
+Org_0632,finance,phishing,2020-02-24,17181,Germany
+Org_0113,Education,Malware,"September 05, 2020",245907,Australia
+Org_0351,Finance,Malware,02/20/2024,594643,India
+Org_0014,Healthcare,Phishing,28-Dec-2020,58985,Canada
+Org_0294,healthcare,Insider Threat,"February 25, 2025",172927,Canada
+Org_0151,Retail,Ransomware,2018-10-02,766088,Germany
+Org_0649,GOVERNMENT,UNPATCHED VULNERABILITY,05/02/2024,1390831,Canada
+Org_0055,Education,Malware,07/30/2025,537004,Germany
+Org_0642,Government,Phishing,2024-09-06,271876,India
+Org_0084,Government,phishing,10/04/2025,161040,Germany
+Org_0159,healthcare,Misconfiguration,01-Dec-2018,939275,Australia
+Org_0382,Education,ransomware,04/08/2018,4592810,Germany
+Org_0204,Healthcare,misconfiguration,2021-08-08,177916,India
+Org_0239,Government,Misconfiguration,2025-09-19,1261810,Brazil
+Org_0045,Government,Misconfiguration,12/28/2020,1661244,UK
+Org_0451,retail,Physical Theft,05/08/2021,9875,Australia
+Org_0149,GOVERNMENT,PHYSICAL THEFT,04/20/2025,28235,Australia
+Org_0452,Finance,Misconfiguration,"September 23, 2024",1395232,Brazil
+Org_0358,GOVERNMENT,MISCONFIGURATION,14-Feb-2022,297580,India
+Org_0173,HEALTHCARE,misconfiguration,"January 05, 2019",980376,Australia
+Org_0312,Technology,ransomware,07/13/2023,580723,India
+Org_0024,Technology,Insider Threat,2018-08-10,15989,Brazil
+Org_0608,Education,MISCONFIGURATION,2023-04-06,1452358,India
+Org_0352,Retail,MISCONFIGURATION,"January 08, 2025",44144,USA
+Org_0328,Healthcare,PHISHING,2025-04-08,355516,India
+Org_0195,Education,Unpatched Vulnerability,2025-06-30,2215653,Australia
+Org_0356,TECHNOLOGY,Ransomware,08/28/2024,4407414,UK
+Org_0374,healthcare,Unpatched Vulnerability,08-Feb-2023,252528,Germany
+Org_0433,Education,Misconfiguration,09/05/2019,1198233,Germany
+Org_0423,Technology,insider threat,04/27/2020,167397,USA
+Org_0115,Technology,Insider Threat,20-Aug-2023,26409,UK
+Org_0091,Government,Unpatched Vulnerability,09/14/2019,2380720,USA
+Org_0589,retail,malware,16-Nov-2024,384699,Germany
+Org_0331,Government,physical theft,2025-11-22,37887,India
+Org_0440,Healthcare,RANSOMWARE,"September 07, 2023",1187913,Australia
+Org_0272,healthcare,Unpatched Vulnerability,2020-07-01,115358,UK
+Org_0073,finance,Phishing,"June 02, 2019",351489,UK
+Org_0248,Education,Insider Threat,23-Aug-2019,11127,Brazil
+Org_0252,FINANCE,Unpatched Vulnerability,"July 25, 2022",2022564,UK
+Org_0536,FINANCE,Ransomware,"March 09, 2025",2370958,Australia
+Org_0630,TECHNOLOGY,Unpatched Vulnerability,"November 17, 2023",2333023,UK
+Org_0574,education,Phishing,05-Jan-2019,381205,USA
+Org_0200,Healthcare,INSIDER THREAT,06/29/2018,11085,UK
+Org_0585,Government,Malware,"January 30, 2021",192755,Canada
+Org_0404,finance,  Unpatched Vulnerability  ,28-Oct-2025,,Australia
+Org_0499,Education,Ransomware,2019-06-10,3299793,UK
+Org_0202,Healthcare,malware,"February 16, 2022",420453,Brazil
+Org_0572,Education,physical theft,2025-07-23,23625,UK
+Org_0492,Retail,Phishing,05-Feb-2023,294180,Brazil
+Org_0138,RETAIL,Physical Theft,2022-01-09,26142,Australia
+Org_0133,Technology,Phishing,13-Apr-2018,480357,Germany
+Org_0444,retail,Malware,06-Jan-2019,29783,Australia
+Org_0513,RETAIL,Unpatched Vulnerability,"September 15, 2021",2996652,USA
+Org_0585,Government,Malware,"January 30, 2021",192755,Canada
+Org_0087,technology,Ransomware,11-Aug-2024,893274,India
+Org_0268,Retail,insider threat,2020-06-11,11972,USA
+Org_0408,Technology,MISCONFIGURATION,2022-02-03,793476,Canada
+Org_0561,Technology,Misconfiguration,10/09/2022,543762,USA
